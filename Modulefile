@@ -1,0 +1,7 @@
+name    'noma4i/windows_hardening'
+version '0.0.1'
+author 'noma4i'
+license 'Apache License, Version 2.0'
+summary 'General hardening Windows Server(standalone)'
+project_page 'https://github.com/noma4i/puppet-windows-hardening'
+dependency    'joshcooper/powershell', '>=0.0.5'
