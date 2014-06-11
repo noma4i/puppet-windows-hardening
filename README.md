@@ -15,6 +15,8 @@ Set 'Account lockout threshold' to '5 invalid logon attempt(s)' (Scored)
 
     Computer Configuration\Windows Settings\Security Settings\Account Policies\Account Lockout Policy\Account lockout threshold
 
+## Rules list
+
 ###### CCE-24768-4
 Set 'Account lockout duration' to '15 or more minute(s)' (Scored)
 
