@@ -1,3 +1,4 @@
+# HEADS UP! This list of rules to be done. Plugin is not doing anything useful in paticular! use https://github.com/noma4i/puppet-windows_cis
 ## Windows Hardening Rules.
 
 Based on **CIS Microsoft Windows Server 2012 Benchmark**
